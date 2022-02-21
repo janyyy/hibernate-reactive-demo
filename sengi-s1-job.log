@@ -1,0 +1,3 @@
+2022-02-21 09:50:30,010 INFO  [io.quarkus] (Quarkus Main Thread) hibernate-reactive-demo 1.0 on JVM (powered by Quarkus 2.7.1.Final) started in 2.302s. Listening on: http://localhost:8080
+2022-02-21 09:50:30,011 INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+2022-02-21 09:50:30,011 INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, hibernate-orm, hibernate-reactive, hibernate-reactive-panache, reactive-pg-client, resteasy-reactive, resteasy-reactive-jackson, smallrye-context-propagation, vertx]
